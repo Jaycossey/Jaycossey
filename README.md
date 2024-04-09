@@ -1,21 +1,20 @@
 # Hello World! My name is Ian!
 
+## Quote of the day
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 ## About me
 
 ### My Story...
-> Software Developer with 2 years experience with a focus on Front End Technologies
+> I am a passionate Software Developer with 2 years experience. I have a knack for problem-solving and a love for programming. When I am not writing code, I am often found playing Death Metal with my band or spending time with my family.
 
 ### I am currently learning...
 
-> I am currently enrolled and studying an Undergraduate in Cyber Security with LIBF
+> Currently I am embarking on a learning journey within the world of Cyber Security, studying an undergraduate degree with the London Institute of Banking and Finance 
 
-### My long term goals...
+### I have previously learned...
 
-> Writing software and cyber sec 
-
-## Some of my favorite projects
-
-
+> Previously I have been self teaching within the world of software development, gaining insight into the fundamentals of development and programming. I then took part in a Front End Development Bootcamp where I was able to gain valuable experience and knowledge with collaborative work and version control.
 
 ## Tech Stack
 
@@ -43,24 +42,7 @@
 
 Like my work and interested in working with me? Click the links below to reach me!
 
-<a>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a>![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)</a>
+<a href="https://ianscott.netlify.app/" target="_blank" referrer="noopener noreferrer">![Link - My Portfolio](https://img.shields.io/badge/My_Portfolio-purple)</a>
 
-## Quote of the day
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+<a href="https://www.linkedin.com/in/ian-j-scott/" target="_blank" referrer="noopener noreferrer">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-
-<!--
-**Jaycossey/Jaycossey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
