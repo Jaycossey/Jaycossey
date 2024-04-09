@@ -1,7 +1,7 @@
 # Hello World! My name is Ian!
 
 ## Quote of the day
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)]([https://github.com/piyushsuthar/github-readme-quotes](https://github.com/shravan20/github-readme-quotes))
 
 ## About me
 
