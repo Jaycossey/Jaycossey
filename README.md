@@ -1,19 +1,12 @@
 # Hello World! My name is Ian!
 
-## Quote of the day
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## About me
 
-### My Story...
 > I am a passionate Software Developer with 2 years experience. I have a knack for problem-solving and a love for programming. When I am not writing code, I am often found playing Death Metal with my band or spending time with my family.
-
-### I am currently learning...
-
+>
 > Currently I am embarking on a learning journey within the world of Cyber Security, studying an undergraduate degree with the London Institute of Banking and Finance 
-
-### I have previously learned...
-
+>
 > Previously I have been self teaching within the world of software development, gaining insight into the fundamentals of development and programming. I then took part in a Front End Development Bootcamp where I was able to gain valuable experience and knowledge with collaborative work and version control.
 
 ## Tech Stack
