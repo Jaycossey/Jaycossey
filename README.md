@@ -1,5 +1,6 @@
 # Hello World! My name is Ian!
 
+<img width="900" margin="auto" alt="Hello World gif with matrix style text rain" src="./gif/hello-code.gif">
 
 ## About me
 
