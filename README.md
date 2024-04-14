@@ -1,4 +1,4 @@
-# Hello World! My name is Ian!
+# Hello World! My name is Ian! I am a Software Developer!
 
 <img width="900" margin="auto" alt="Hello World gif with matrix style text rain" src="./gif/hello-code.gif">
 
