@@ -6,9 +6,9 @@
 
 > I am a passionate Software Developer with 2 years experience. I have a knack for problem-solving and a love for programming. When I am not writing code, I am often found playing Death Metal with my band or spending time with my family.
 >
-> I am currently embarking on a learning journey into the world of Cyber Security and Ethical Penetration testing. Gaining insight into how to exploit vulnerable applications and servers using industry standard tools as well as how to report on those exploits in order to help strengthen security.
+> I am currently embarking on a learning journey into the world of Cyber Security and Ethical Penetration testing. Gaining insight into how to exploit vulnerable applications and servers using industry standard tools as well as how to report on those exploits in order to help strengthen application security.
 >
-> Previously I have been self teaching within the world of software development, gaining insight into the fundamentals of development and programming. I then took part in a Front End Development Bootcamp where I was able to gain valuable experience and knowledge with collaborative work and version control.
+> I work as a software engineer with a primary focus on full-stack web development using the ASPNET C# tech stack. I have previous experience working with more modern front end frameworks such as React and various CSS frameworks.  
 
 ## Tech Stack
 
@@ -17,7 +17,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-
+![SASS](https://img.shields.io/badge/SASS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
