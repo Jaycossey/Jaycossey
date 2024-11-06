@@ -28,7 +28,7 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![ASPNET MVC](https://img.shields.io/badge/ASPNET-MVC-blue)
-![ASPNET MVC](https://img.shields.io/badge/C#-purple)
+![C#](https://img.shields.io/badge/C#-purple)
 
 ### Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
