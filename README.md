@@ -6,7 +6,7 @@
 
 > I am a passionate Software Developer with 2 years experience. I have a knack for problem-solving and a love for programming. When I am not writing code, I am often found playing Death Metal with my band or spending time with my family.
 >
-> Currently I am embarking on a learning journey within the world of Cyber Security, studying an undergraduate degree with the London Institute of Banking and Finance 
+> I am currently embarking on a learning journey into the world of Cyber Security and Ethical Penetration testing. Gaining insight into how to exploit vulnerable applications and servers using industry standard tools as well as how to report on those exploits in order to help strengthen security.
 >
 > Previously I have been self teaching within the world of software development, gaining insight into the fundamentals of development and programming. I then took part in a Front End Development Bootcamp where I was able to gain valuable experience and knowledge with collaborative work and version control.
 
@@ -27,6 +27,8 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![ASPNET MVC](https://img.shields.io/badge/ASPNET-MVC-blue)
+![ASPNET MVC](https://img.shields.io/badge/C#-purple)
 
 ### Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
